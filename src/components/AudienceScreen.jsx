@@ -13,7 +13,7 @@ export default function AudienceScreen() {
     <div
       style={{
         height: "100vh",
-        background: "#000", // خلفية سوداء للنيون
+        background: "#000", // Black background for neon effect
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
