@@ -27,13 +27,13 @@ Each state updates the screen appearance (color and text effects) without reload
 ## Project Structure
 
 - `src/components/AudienceScreen.jsx`  
-	Responsible for rendering the UI and connecting the button to state changes.
+  Responsible for rendering the UI and connecting the button to state changes.
 
 - `src/hooks/useScreenState.js`  
-	Contains state management logic and the `changeState` function.
+  Contains state management logic and the `changeState` function.
 
 - `src/App.jsx`  
-	Renders the `AudienceScreen` component.
+  Renders the `AudienceScreen` component.
 
 ## Tech Stack
 
